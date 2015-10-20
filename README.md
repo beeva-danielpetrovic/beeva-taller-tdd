@@ -9,4 +9,4 @@ Realiza test solo de parámetros correctos. No es necesario que se realicen test
 ## String Calculator
 
 * Crear una calculadora que admita un String y realice cálculos:
-** Enunciado 2
+    * Enunciado 2
