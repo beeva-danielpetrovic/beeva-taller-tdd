@@ -6,7 +6,7 @@ Las Katas se van a ir construyendo de manera incremental de menos a más complej
 
 ## Enunciados
 
-* Enunciado 1
+* [Enunciado 1]()
 * Enunciado 2
 
 ## Soluciones
