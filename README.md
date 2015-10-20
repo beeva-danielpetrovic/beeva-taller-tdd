@@ -6,10 +6,15 @@ Las Katas se van a ir construyendo de manera incremental de menos a más complej
 
 ## Enunciados
 
-* [Enunciado 1](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-1)
-* Enunciado 2
+* [Enunciado Kata-1](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-1)
+* ...
 
 ## Soluciones
 
+* [Solución Kata-1](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-1)
+* ...
 
 ## Videos
+
+* [Video Kata-1](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-1)
+* ...
