@@ -1,15 +1,12 @@
-# beeva-taller-tdd
-Katas para el taller de tdd de beeva
+# Kata-1: String Calculator
 
-La idea de este repositorio es ir construyendo un taller de Tdd en java para que los profesionales de Beeva puedan adquirir buenas prácticas de esta filosofia de desarrollo.
-Las Katas se van a ir construyendo de manera incremental de menos a más complejidad. Cada una tendrá asociada un enunciado, el código asociado a ella y un video en la que se muestra la solución iterativa.
+Ejercicio sencillo, sin capas ni dependencias externas, debería resolverse en, como máximo, 30 minutos.
 
-## Enunciados
+## Antes de empezar
 
-* [Enunciado 1]()
-* Enunciado 2
+Realiza test solo de parámetros correctos. No es necesario que se realicen test de valores inválidos para esta kata.
 
-## Soluciones
+## String Calculator
 
-
-## Videos
+* Crear una calculadora que admita un String y realice cálculos:
+** Enunciado 2
