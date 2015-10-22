@@ -1,6 +1,6 @@
 # Kata-1: String Calculator
 
-Ejercicio sencillo, sin capas ni dependencias externas, debería resolverse en, como máximo, 30 minutos.
+Ejercicio sencillo, sin capas ni dependencias externas.
 
 ## Antes de empezar
 
