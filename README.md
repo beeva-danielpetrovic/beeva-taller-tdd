@@ -5,6 +5,7 @@ Ejercicio sencillo, sin capas ni dependencias externas.
 ## Antes de empezar
 
 Realiza test solo de parámetros correctos. No es necesario que se realicen test de valores inválidos para esta kata.
+Existe un [esqueleto](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/master) con todas las depedencias necesarias para realizar esta Kata.
 
 ## String Calculator
 
