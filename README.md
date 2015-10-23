@@ -10,18 +10,21 @@ Tenéis un esqueleto disponible para poder empezar con las Katas. Este esqueleto
 
 * [Kata-1: String Calculator](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-1)
 * [Kata-2: Tres en Raya](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-2)
+* [Kata-3: Darts 501](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-3)
 * ...
 
 ## Soluciones
 
 * [Kata-1: String Calculator](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-1)
 * [Kata-2: Tres en Raya](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-2)
+* [Kata-3: Darts 501](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-3)
 * ...
 
 ## Videos
 
 * [Kata-1: String Calculator](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-1)
 * [Kata-2: Tres en Raya](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-2)
+* [Kata-3: Darts 501](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-3)
 * ...
 
 ### Autores
