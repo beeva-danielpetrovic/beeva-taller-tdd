@@ -1,11 +1,14 @@
 # Kata-2: Tres en Raya
 
+
 ### Definición
 Esta Kata se basa en reproducir el famoso juego de Tres en Raya (en inglés, Tic Tac Toe). No utiliza dependencias externas.
+
 
 ### Antes de empezar
 Es muy importante no olvidar refactorizar en cada ciclo. 
 Tenéis disponible el [esqueleto](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/master) con todas las dependencias necesarias.
+
 
 ### Descripción
 - Al iniciarse el juego:
@@ -25,7 +28,5 @@ Tenéis disponible el [esqueleto](https://github.com/beeva-danielpetrovic/beeva-
   - Al darse cualquiera de los puntos anteriores, el juego finaliza y no debe dejar poner otra ficha hasta que se inicialice de nuevo el juego, mostrando un mensaje tipo: "El juego ha finalizado. Si quiere volver a jugar, inicie de nuevo el juego"
 
 
-### Autores
-
-* Daniel Petrovic Galvez - daniel.petrovic@beeva.com
-* Manuel Durán López - manuel.duran@beeva.com
+### Vídeo
+*Pendiente de grabación*
