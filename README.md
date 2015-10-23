@@ -9,16 +9,19 @@ Tenéis un esqueleto disponible para poder empezar con las Katas. Este esqueleto
 ## Enunciados
 
 * [Enunciado Kata-1](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-1)
+* [Enunciado Kata-2](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-2)
 * ...
 
 ## Soluciones
 
 * [Solución Kata-1](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-1)
+* [Solución Kata-2](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-2)
 * ...
 
 ## Videos
 
 * [Video Kata-1](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-1)
+* [Vídeo Kata-2](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-2)
 * ...
 
 ### Autores
