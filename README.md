@@ -11,7 +11,7 @@ Tenéis disponible el [esqueleto](https://github.com/beeva-danielpetrovic/beeva-
 
 
 ### Descripción
-- De 1 a 5 jugadores
+- De 1 a 5 jugadores. Cada jugador tiene un nombre y una abreviatura para mostrar en pantalla.
 - Cada juego se compone de 10 turnos por cada jugador.
 - En cada turno, el jugador puede lanzar dos veces.
 - Si en el segundo tiro el jugador no consigue tirar todos los bolos, se suman el número de bolos que ha conseguido.
