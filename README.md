@@ -32,6 +32,7 @@ Tenéis disponible el [esqueleto](https://github.com/beeva-danielpetrovic/beeva-
     - Dar en el centro verde (25 puntos)
     - Dar en el centro rojo (50 puntos).
   - Se resta la puntuación obtenida del resto del total acumulado
+  - Cuando el jugador ha lanzado los tres dardos, es turno del siguiente jugador. Si no hay más jugadores que queden por lanzar, se pasa a la ronda siguiente.
 - Para cerrar la partida:
   - Para ganar la partida, uno de los jugadores debe llegar a 0.
   - El jugador debe puntuar en su último acumulado mediante doble o triple. (Ejemplo: si le quedan 11 puntos, debería puntuar 1 simple y 5 doble).
