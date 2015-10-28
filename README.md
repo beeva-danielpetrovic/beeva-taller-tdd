@@ -21,7 +21,6 @@ Tenéis disponible el [esqueleto](https://github.com/beeva-danielpetrovic/beeva-
       - Zona simple.
       - Zona doble
       - Zona triple.
-  - Se sortea qué jugador empieza el juego
   
 - En cada ronda:
   - El jugador lanza tres dardos que pueden:
