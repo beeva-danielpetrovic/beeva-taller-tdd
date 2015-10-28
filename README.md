@@ -1,8 +1,8 @@
-# Kata-3: Darts 501
+# Kata-3: Bowling
 
 
 ### Definición
-Esta Kata se basa en reproducir el juego 501 de dardos.
+Esta Kata se basa en reproducir una partida de bolos.
 
 
 ### Antes de empezar
@@ -11,33 +11,15 @@ Tenéis disponible el [esqueleto](https://github.com/beeva-danielpetrovic/beeva-
 
 
 ### Descripción
-- Al iniciarse el juego:
-  - Ambos jugadores tienen una puntuación de partida de 501.
-  - La diana consta de:
-    - Zona vacía.
-    - El centro rojo.
-    - El centro verde.
-    - 20 triángulos (cada uno representa un número)
-      - Zona simple.
-      - Zona doble
-      - Zona triple.
-  
-- En cada ronda:
-  - El jugador lanza tres dardos que pueden:
-    - Ir fuera de la diana (no puntúa)
-    - Dar en uno de los 20 triángulos
-      - En zona simple, puntúa el número en sí.
-      - En zona doble, el doble del número.
-      - En zona triple, el triple del número.
-    - Dar en el centro verde (25 puntos)
-    - Dar en el centro rojo (50 puntos).
-  - Se resta la puntuación obtenida del resto del total acumulado
-  - Cuando el jugador ha lanzado los tres dardos, es turno del siguiente jugador. Si no hay más jugadores que queden por lanzar, se pasa a la ronda siguiente.
-- Para cerrar la partida:
-  - Para ganar la partida, uno de los jugadores debe llegar a 0.
-  - El jugador debe puntuar en su último acumulado mediante doble o triple. (Ejemplo: si le quedan 11 puntos, debería puntuar 1 simple y 5 doble).
-  - En el caso se pase de la puntuación del resto del acumulado se queda con el acumulado que tenía antes del lanzamiento (por ejemplo, en el primer lanzamiento puntúa 1, le quedan 10 puntos, y en el segundo lanzamiento puntua 20, su acumulado es de 10).
-  - En el caso que el acumulado después de la ronda sea 1, se volvería al acumulado previo al inicio de su ronda.
+- De 1 a 5 jugadores
+- Cada juego se compone de 10 turnos por cada jugador.
+- En cada turno, el jugador puede lanzar dos veces.
+- Si en el segundo tiro el jugador no consigue tirar todos los bolos, se suman el número de bolos que ha conseguido.
+- Si en el segundo tiro el jugador consigue tirar todos los bolos, hace un "semipleno (spare)" y la puntuación es 10 + el número de bolos que tire en el primer lanzamiento de su siguiente turno. Por ejemplo, si hace un semipleno y en el siguiente turno, en el primer lanzamiento tira 6 bolos, el semipleno tendrá un valor de 16 puntos.
+- Si en el primer tiro consigue tirar todos los bolos, se llama "pleno (strike)". El turno finaliza y la puntuación será 10 + los puntos que consiga en total en el siguiente turno. Por ejemplo, si en el siguiente turno tira, en el primer lanzamiento, 4 y en el segundo lanzamiento 4, el valor total del pleno será 18.
+- Si consigue un pleno o semipleno en el último turno, tiene un lanzamiento extra en ese mismo turno.
+- Gana quién más puntos tenga.
+- Se debe poder ver las puntuaciones por tirada, donde "X" es pleno, "/" es semipleno y "-" es fallo (no tira ningún bolo).
 
 
 ### Vídeo
