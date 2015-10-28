@@ -8,10 +8,11 @@ Esta Kata se basa en reproducir una partida de bolos.
 ### Antes de empezar
 Es muy importante no olvidar refactorizar en cada ciclo. 
 Tenéis disponible el [esqueleto](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/master) con todas las dependencias necesarias.
+En esta kata podéis comprobar los valores incorrectos que se os ocurra.
 
 
 ### Descripción
-- De 1 a 5 jugadores. Cada jugador tiene un nombre y una abreviatura para mostrar en pantalla.
+- De 1 a 5 jugadores. Cada jugador tiene un nombre y una abreviatura de 3 caracteres para mostrar en pantalla.
 - Cada juego se compone de 10 turnos por cada jugador.
 - En cada turno, el jugador puede lanzar dos veces.
 - Si en el segundo tiro el jugador no consigue tirar todos los bolos, se suman el número de bolos que ha conseguido.
