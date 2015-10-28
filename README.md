@@ -21,6 +21,7 @@ En esta kata podéis comprobar los valores incorrectos que se os ocurra.
 - Si consigue un pleno o semipleno en el último turno, tiene un lanzamiento extra en ese mismo turno.
 - Gana quién más puntos tenga.
 - Se debe poder ver las puntuaciones por tirada, donde "X" es pleno, "/" es semipleno y "-" es fallo (no tira ningún bolo).
+- Al finalizar la partida, se puede volver a empezar la partida con los mismos jugadores.
 
 
 ### Vídeo
