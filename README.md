@@ -12,7 +12,7 @@ Dentro de cada Kata, además del enunciado, están disponibles su solución y un
 
 * [Kata-1: String Calculator](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-1)
 * [Kata-2: Tres en Raya](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-2)
-* [Kata-3: Darts 501](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-3)
+* [Kata-3: Bowling](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/Kata-3)
 * ...
 
 ### Autores
