@@ -6,7 +6,6 @@ Con esta Kata se quiere crear una calculadora que, al pasar un String con númer
 ### Antes de empezar
 
 Realiza test solo de parámetros correctos. No es necesario que se realicen test de valores inválidos para esta kata.
-Existe un [esqueleto](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/master) con todas las dependencias necesarias para realizar esta Kata.
 
 ### Descripción
 
