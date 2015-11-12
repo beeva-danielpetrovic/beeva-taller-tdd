@@ -7,7 +7,6 @@ Esta Kata se basa en reproducir el famoso juego de Tres en Raya (en inglés, Tic
 
 ### Antes de empezar
 Es muy importante no olvidar refactorizar en cada ciclo. 
-Tenéis disponible el [esqueleto](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/master) con todas las dependencias necesarias.
 
 
 ### Descripción
