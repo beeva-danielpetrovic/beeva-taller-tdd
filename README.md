@@ -6,9 +6,7 @@ Esta Kata se basa en reproducir una partida de bolos.
 
 
 ### Antes de empezar
-Es muy importante no olvidar refactorizar en cada ciclo. 
-Tenéis disponible el [esqueleto](https://github.com/beeva-danielpetrovic/beeva-taller-tdd/tree/master) con todas las dependencias necesarias.
-En esta kata podéis comprobar los valores incorrectos que se os ocurra.
+Es muy importante no olvidar refactorizar en cada ciclo. En esta kata podéis comprobar los valores incorrectos que se os ocurra.
 
 
 ### Descripción
