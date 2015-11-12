@@ -1,20 +1,18 @@
-# Kata-1: String Calculator
+# Kata-4: Api Rest Beeva
 
 ### Definición
-Con esta Kata se quiere crear una calculadora que, al pasar un String con números, nos devuelva la suma de éstos.
+Con esta Kata queremos crear una pequeña Api rest aplicando los principios de TDD.
 
 ### Antes de empezar
 
-Realiza test solo de parámetros correctos. No es necesario que se realicen test de valores inválidos para esta kata.
+Estar familiarizado con el framework Spring.
 
 ### Descripción
 
-* La calculadora admite un String:
-    * Puede contener 1 o 2 números (por ejemplo `“1”` o `“1,2”`) separados por coma. Devuelve la suma de los números.
-    * Si la cadena está vacía, devuelve 0.
-* Ahora, la calculadora soporta una cantidad indeterminada de números (por ejemplo `"1,5,1,2,5"` devolvería 14)
-* Soporta diferentes delimitadores. Para ello, el formato del String es `“[delimiter]numbers”`(por ejemplo `“[;]1;2”` devolvería 3)
-* Si se pasan números negativos, lanzar excepción con el mensaje “Negativos no soportados” (por ejemplo `"[;]1;4;-1;3"`)
+* Queremos hacer un servicio rest que consulte de un empleado de Beeva en cuantos proyectos ha participado. El empleado de beeva se identifica por un identificador unico alfanumerico cuya longitud es cinco. El desarrollo debe contener pruebas referentes a::
+    * ¿Que ocurre sino existe ese usuario?
+    * ¿Que ocurre sino cumple el identificador con el patron?
+    * ¿Que ocurre si acaba de entrar a la empresa y no ha participado en ningún proyecto?
 
 ### Vídeo
 *Pendiente de grabación*
