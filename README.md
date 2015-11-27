@@ -28,4 +28,5 @@ Es muy importante no olvidar refactorizar en cada ciclo.
 
 
 ### Vídeo
-*Pendiente de grabación*
+[Vídeo en Drive](https://drive.google.com/open?id=0B1joOb8Uxlk_d3hhZW1RWUdGa2M)
+*Pendiente de edición y subida a canal Youtube de Beeva*
