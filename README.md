@@ -16,7 +16,7 @@ Es muy importante no olvidar refactorizar en cada ciclo. En esta kata podéis co
 - Si en el primer lanzamiento no consigue tirar todos los bolos y en el segundo lanzamiento lo consigue, hace un "semipleno (spare)" y la puntuación es 10 + el número de bolos que tire en el primer lanzamiento de su siguiente ronda. Por ejemplo, si hace un semipleno y en la siguiente ronda, en el primer lanzamiento, tira 6 bolos, el semipleno tendrá un valor de 16 puntos.
 - Si en el primer lanzamiento consigue tirar todos los bolos, se llama "pleno (strike)". La ronda finaliza y la puntuación será 10 + los puntos que consiga en total en la siguiente ronda. Por ejemplo, si en la siguiente ronda tira, en el primer lanzamiento, 4 y en el segundo lanzamiento 3, el valor total del pleno será 17.
 - Si consigue un pleno o semipleno en la última ronda, tiene un lanzamiento extra en esa misma ronda.
-- Al finalizar las 10 rondas, se debe mostrar un mensaje con la puntuación por cada ronda, donde 'X' es pleno y '/' es semipleno. Por ejemplo: "Ronda 1 -> |4|/| ··· Ronda 2 -> |X|-| ··· Ronda 3 -> |4|0|"
+- Al finalizar las 10 rondas, se debe mostrar un mensaje con la puntuación por cada ronda, donde 'X' es pleno y '/' es semipleno. Por ejemplo: "Ronda 1 -> |4|/|24|··· Ronda 2 -> |X|-|38| ··· Ronda 3 -> |4|0|42|", donde se muestra el resultado del primer lanzamiento, del segundo y la puntuación de que se tenía en esa ronda.
 
 
 ### Vídeo
