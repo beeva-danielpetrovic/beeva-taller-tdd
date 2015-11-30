@@ -17,4 +17,5 @@ Realiza test solo de parámetros correctos. No es necesario que se realicen test
 * Si se pasan números negativos, lanzar excepción con el mensaje “Negativos no soportados” (por ejemplo `"[;]1;4;-1;3"`)
 
 ### Vídeo
-*Pendiente de grabación*
+[Práctica String Calculator](https://drive.google.com/a/beeva.com/file/d/0By9CL9eDwOP5MV9MQnNvTDdrR2c/view)
+
