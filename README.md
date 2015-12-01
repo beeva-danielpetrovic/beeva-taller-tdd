@@ -6,7 +6,7 @@ En esta kata vamos a simular el funcionamiento básico de un videoclub. En este 
 
 
 ### Antes de empezar
-Es muy importante no olvidar refactorizar en cada ciclo. En esta kata podéis comprobar los valores incorrectos que se os ocurra. Para realizarlo, hemos utilizado Spring Framework para la inyección de dependencias, pero la solución sería muy parecida utilizando cualquier framework o incluso sin utilizar ninguno. No es necesario crear parte web o API.
+Es muy importante no olvidar refactorizar en cada ciclo. En esta kata podéis comprobar los valores incorrectos que se os ocurra. Para realizarlo, hemos utilizado Spring Framework para la inyección de dependencias, pero la solución sería muy parecida utilizando cualquier framework o incluso sin utilizar ninguno. No es necesario crear parte web o servicios.
 
 
 ### Descripción
