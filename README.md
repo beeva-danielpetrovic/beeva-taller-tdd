@@ -6,7 +6,7 @@ En esta kata vamos a simular el funcionamiento básico de un videoclub. En este 
 
 
 ### Antes de empezar
-Es muy importante no olvidar refactorizar en cada ciclo. En esta kata podéis comprobar los valores incorrectos que se os ocurra. No es necesario crear parte web o servicios, ya que se verá en la siguiente Kata, aunque sí se da por supuesto que existe un controlador con servicios web. No indicamos la información que tenemos de cada clase (cliente, pelicula), se deja a vuestra elección. Con esta kata se intenta mostrar cómo trabajar con diferentes capas (en nuestro caso, servicio y acceso a datos).
+Es muy importante no olvidar refactorizar en cada ciclo. En esta kata podéis comprobar los valores incorrectos que se os ocurra. No es necesario crear parte web o servicios, ya que se verá en la siguiente Kata. Con esta kata se intenta mostrar cómo trabajar con diferentes capas (en nuestro caso, servicio y acceso a datos).
 
 
 ### Descripción
