@@ -10,7 +10,6 @@ Es muy importante no olvidar refactorizar en cada ciclo. En esta kata podéis co
 
 
 ### Descripción
-- Existen clientes y películas en la aplicación.
 - Se pueden obtener todas las películas. También se puede buscar una película por su título.
 - Se puede alquilar una película. Para alquilarla, el cliente tiene que tener un mínimo de saldo, correspondiente al precio de un día de alquiler (por ejemplo, 1 euro). Si no tiene suficiente saldo, no permite alquilar. Si tiene suficiente saldo, la película es alquilada.
 - Se puede devolver una película. Se comprueba la fecha de recogida con la de entrega, y si está dentro de las 24 horas permitidas, se cobra 1 euros del precio de alquiler. Si se supera, se cobra 1 euros por cada día superado. Si no tuviera suficiente saldo, se muestra mensaje para que recargue la tarjeta.
