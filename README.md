@@ -16,7 +16,7 @@ Es muy importante no olvidar refactorizar en cada ciclo. En esta kata podéis co
 - Se puede alquilar una película. Para alquilarla, el cliente tiene que tener un mínimo de saldo, correspondiente al precio de un día de alquiler (por ejemplo, 1 euro). Si no tiene suficiente saldo, no permite alquilar. Si tiene suficiente saldo, la película es alquilada.
 - Se puede devolver una película. Se comprueba la fecha de recogida con la de entrega, y si está dentro de las 24 horas permitidas, se cobra 1 euros del precio de alquiler. Si se supera, se cobra 1 euros por cada día superado. Si no tuviera suficiente saldo, se muestra mensaje para que recargue la tarjeta.
 - Se puede recargar la tarjeta, introduciento una cantidad de dinero. Solo se permiten billetes.
-- Si se intenta alquilar una película ya alquilada, se informa que ya ha sido alquilada.
+- Si se intenta alquilar una película ya alquilada, se informa que ya ha sido alquilada de 5, 10 y 20 euros.
 
 ### Vídeo
 *Pendiente de grabación*
